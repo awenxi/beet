@@ -14,7 +14,7 @@
             "email": "awenxi123@163.com"
         }
     ],
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
     "require": {
 		"php":">=7.0"
 	}
