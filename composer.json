@@ -1,0 +1,19 @@
+{
+    "name": "micro-framework/beet",
+    "description": "micro mvc framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MicroFramework\\Beet\\": "src/Beet/Library"
+        }
+    },
+    "authors": [
+        {
+            "name": "awenxi",
+            "email": "awenxi123@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
