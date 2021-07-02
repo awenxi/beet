@@ -14,5 +14,7 @@
             "email": "awenxi123@163.com"
         }
     ],
-    "require": {}
+    "require": {
+		"php":">=7.0"
+	}
 }
